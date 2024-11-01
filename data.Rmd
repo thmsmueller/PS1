@@ -1,0 +1,13 @@
+---
+title: "functions"
+output: html_document
+date: "2024-11-01"
+---
+
+```{r}
+cubic <- function(data) {
+  data ^ 2
+} 
+
+cubic(cars)
+```
