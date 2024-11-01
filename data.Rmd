@@ -13,8 +13,8 @@ cubic(cars)
 ```
 
 ```{r}
-eightfold <- function(data) {
-  data * 8
+eightfold <- function(data_new) {
+  data_new * 8
 } 
 
 eightfold(cars)
