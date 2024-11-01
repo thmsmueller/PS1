@@ -11,3 +11,11 @@ cubic <- function(data) {
 
 cubic(cars)
 ```
+
+```{r}
+eightfold <- function(data) {
+  data * 8
+} 
+
+eightfold(cars)
+```
